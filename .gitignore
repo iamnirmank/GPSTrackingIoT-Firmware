@@ -1,0 +1,8 @@
+# Ignore PlatformIO project files
+.pio/
+
+# Ignore log files
+logs/
+
+# Ignore VSCode configuration folder
+.vscode/
